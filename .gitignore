@@ -1,10 +1,10 @@
-# ignora los archivos terminados en .class
+﻿# ignora los archivos terminados en .class
 *.class
 
 # ignora los archivos terminados en ~
 *~
 
-# pero no importante~, aun cuando hab�a ignorado los archivos terminados en ~ en la linea anterior
+# pero no importante~, aun cuando habia ignorado los archivos terminados en ~ en la linea anterior
 !importante~
 /Hola/nbproject/private/
 /Hola/build/
